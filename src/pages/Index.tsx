@@ -66,7 +66,7 @@ const Index = () => {
           <img
             src={doveImage}
             alt="Peace dove illustration with olive branch"
-            className="w-full max-w-md md:max-w-lg rounded-xl"
+            className="w-full max-w-md md:max-w-lg"
           />
         </div>
       </div>
